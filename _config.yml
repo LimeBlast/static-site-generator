@@ -1,0 +1,15 @@
+# Site settings
+title:            Static Site Generator
+email:            daniel@limeblast.co.uk
+description:      "Blah blah blah"
+baseurl:          ""
+twitter_username: limeblast
+github_username:  limeblast
+
+# Build settings
+markdown:  kramdown
+permalink: pretty
+
+# Paths
+source:      ./app
+destination: ./dest
