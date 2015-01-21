@@ -1,0 +1,52 @@
+// Local overrides
+@import "uikit-variables";
+@import "uikit-mixins";
+
+// LESS related
+@import "uikit/scss/core/variables.scss";
+
+// Defaults
+@import "uikit/scss/core/base.scss";
+
+// Layout
+@import "uikit/scss/core/grid.scss";
+@import "uikit/scss/core/panel.scss";
+@import "uikit/scss/core/article.scss";
+@import "uikit/scss/core/comment.scss";
+
+// Navs
+@import "uikit/scss/core/nav.scss";
+@import "uikit/scss/core/navbar.scss";
+@import "uikit/scss/core/subnav.scss";
+@import "uikit/scss/core/breadcrumb.scss";
+@import "uikit/scss/core/pagination.scss";
+@import "uikit/scss/core/tab.scss";
+
+// Elements
+@import "uikit/scss/core/list.scss";
+@import "uikit/scss/core/description-list.scss";
+@import "uikit/scss/core/table.scss";
+@import "uikit/scss/core/form.scss";
+
+// Common
+@import "uikit/scss/core/button.scss";
+@import "uikit/scss/core/icon.scss";
+@import "uikit/scss/core/close.scss";
+@import "uikit/scss/core/badge.scss";
+@import "uikit/scss/core/alert.scss";
+@import "uikit/scss/core/thumbnail.scss";
+@import "uikit/scss/core/overlay.scss";
+@import "uikit/scss/core/progress.scss";
+@import "uikit/scss/core/animation.scss";
+
+// JavaScript
+@import "uikit/scss/core/dropdown.scss";
+@import "uikit/scss/core/modal.scss";
+@import "uikit/scss/core/offcanvas.scss";
+@import "uikit/scss/core/switcher.scss";
+@import "uikit/scss/core/tooltip.scss";
+
+// Need to be loaded last
+@import "uikit/scss/core/text.scss";
+@import "uikit/scss/core/utility.scss";
+@import "uikit/scss/core/print.scss";
