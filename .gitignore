@@ -1,1 +1,5 @@
 dest
+.idea
+.bundle
+node_modules
+bower_components

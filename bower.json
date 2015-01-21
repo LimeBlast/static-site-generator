@@ -1,0 +1,19 @@
+{
+  "name": "Static Site Generator",
+  "homepage": "https://github.com/LimeBlast/static-site-generator",
+  "authors": [
+    "Daniel Hollands <daniel@limeblast.co.uk>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "uikit": "~2.16.2"
+  }
+}
