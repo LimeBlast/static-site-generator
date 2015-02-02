@@ -13,3 +13,10 @@ permalink: pretty
 # Paths
 source:      ./app
 destination: ./dest
+
+assets:
+  sources:
+    - _assets/javascripts
+    - _assets/stylesheets
+    - _assets/images
+    - ../bower_components
