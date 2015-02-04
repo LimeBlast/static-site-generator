@@ -1,6 +1,6 @@
 {
-  "name": "Static Site Generator",
-  "main": "Gulpfile.js",
+  "name": "static-site-generator",
+  "main": "gulpfile.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/LimeBlast/static-site-generator.git"
@@ -10,6 +10,7 @@
   "homepage": "https://github.com/LimeBlast/static-site-generator",
   "private": true,
   "devDependencies": {
-    "bower": "^1.3.12"
+    "bower": "^1.3.12",
+    "gulp": "~3.8.10"
   }
 }
